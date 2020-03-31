@@ -18,7 +18,7 @@
 
 > A complete set of CSS filters utility for web UI, (FX, aka `Special Effect`).
 
-> Work in progress
+### See [FX-Filter Previewer](https://fx-filter-previewer.netlify.com/).
 
 Yogurt `{FX}.filter` started out as a small side-project of mine. As I was increasingly using CSS animations and filters, I thought it would come in handy to have them organized in a meaningful and accessible way so that they can be easily reused on different projects.
 

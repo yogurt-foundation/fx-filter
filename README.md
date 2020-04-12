@@ -74,7 +74,17 @@ see all effect modules in [all presets](https://github.com/loouislow81/fx.css/wi
 
 ---
 
-## _build
+## _using via cdn
+
+```html
+<link defer href="https://unpkg.com/fx-filter@1.0.0/dist/fx-filter.css" 
+      rel="stylesheet"
+      rel="preload"
+      as="style"
+      media="all">
+```
+
+## _using via build
 
 ``` bash
 # install dependencies
